@@ -1,4 +1,5 @@
 import numpy as np
+
 np.random.seed(42)
 arr = np.random.randint(10, 51, size=15)
 print(arr)
