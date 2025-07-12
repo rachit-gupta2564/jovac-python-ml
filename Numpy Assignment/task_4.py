@@ -1,4 +1,5 @@
 import numpy as np
+
 arr1d = np.arange(1, 13)
 print(arr1d)
 arr2d = arr1d.reshape(4, 3)
