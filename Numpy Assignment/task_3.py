@@ -1,4 +1,5 @@
 import numpy as np
+
 np.random.seed(0)
 A = np.random.randint(1, 21, size=5)
 B = np.random.randint(1, 21, size=5)
