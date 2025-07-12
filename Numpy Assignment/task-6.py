@@ -1,4 +1,5 @@
 import numpy as np
+
 linear_space = np.linspace(0, 1, 10)
 identity_mat = np.eye(4)
 np.random.seed(0)
