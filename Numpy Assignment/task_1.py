@@ -1,4 +1,5 @@
 import numpy as np
+
 # 1D array
 arr1d = np.arange(1, 11)
 # 2D array
